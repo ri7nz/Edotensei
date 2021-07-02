@@ -41,7 +41,7 @@
     "bundlesize": "0.18.1",
     "cross-env": "7.0.3",
     "documentation": "13.2.5",
-    "eslint": "7.29.0",
+    "eslint": "7.30.0",
     "eslint-config-google": "0.14.0",
     "eslint-plugin-jest": "24.3.6",
     "gzip-size-cli": "5.0.0",
